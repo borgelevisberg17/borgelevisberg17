@@ -11,9 +11,9 @@ Se você está procurando por projetos interessantes, dicas de programação, ou
 
 🔥 Sobre Mim
 
-🎯 Atualmente Aprendendo: Node.js, TypeScript, React Native,Python, Django, Flutter, Hacking Ético, Redes
+🎯 Atualmente Aprendendo: Node.js, TypeScript, React Native, Django, Flutter
 
-💡 Tecnologias que Uso: .NET MAUI, C#, PHP, MySQL, Kali Linux, Node.js
+💡 Tecnologias que Uso: .NET MAUI, C#, Python, MySQL, Kali Linux, Node.js
 
 🎯 Objetivos Futuros: Dominar AI, Computação Quântica e Segurança Cibernética
 
@@ -52,11 +52,11 @@ Tenho vários projetos em mente, incluindo sistemas de gestão para mercados loc
 
 Frontend: JavaScript, NET Maui, Blazor, Bootstrap 
 
-Backend: Node.js, PHP, .NET
+Backend: Node.js, .NET, Python
 
 Banco de Dados: MySQL, SQLite, Firebase
 
-DevOps: CI/CD
+DevOps: CI/CD, Docker
 
 Ferramentas: Kali Linux, bash
 
@@ -73,4 +73,4 @@ Não sou apenas um desenvolvedor, também adoro tocar piano, guitarra e escrever
 
 ---
 
-📜 
+📜 Thanks 😙 
