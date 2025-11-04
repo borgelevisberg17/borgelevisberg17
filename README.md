@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -43,7 +43,7 @@
 
 ---
 
-## 💼 My Projects
+## My Projects
 <div align="center">
 
 I'm always cooking up something new! Here are a couple of my favorite projects so far:
@@ -57,7 +57,7 @@ I've got more exciting projects in the pipeline, including management systems fo
 
 ---
 
-## 🌱 What I'm Learning & Exploring
+## What I'm Learning & Exploring
 <div align="center">
 
 I'm a lifelong learner. Here's what I'm currently focused on:
@@ -73,7 +73,7 @@ I'm a lifelong learner. Here's what I'm currently focused on:
 
 ---
 
-## 🌎 Languages
+## Languages
 <div align="center">
 
 -   **Portuguese:** Native
@@ -84,7 +84,7 @@ I'm a lifelong learner. Here's what I'm currently focused on:
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 <div align="center">
 
 When I'm not coding, you can usually find me making music! I love playing the piano, strumming my guitar, and composing my own tunes. 🎶
