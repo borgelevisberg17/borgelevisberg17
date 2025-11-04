@@ -10,54 +10,83 @@
 
 ## 🚀 About Me
 
+<div align="center">
 I'm a Full Stack Developer who's passionate about cybersecurity, AI, and mobile app development. I enjoy building creative solutions and tackling complex challenges. I'm always exploring new technologies to sharpen my skills and become an expert in my field.
 
 If you're looking for interesting projects, coding tips, or just a good conversation about the future of tech, you've found the right person!
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
 <div align="center">
-<h3 align="center">Frontend</h3>
+
+### Frontend
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,blazor,maui&theme=dark&perline=8" alt="Frontend Stacks" /></a>
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/blazor-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/maui-icon.svg" alt="icon" width="65" height="65" />
 </p>
 
-<h3 align="center">Backend</h3>
+### Backend
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask, postgrel,dotnet,cs,mysql,sqlite,firebase&theme=dark&perline=8" alt="Backend Stacks" /></a>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="65" height="65" />
 </p>
 
-<h3 align="center">Networking</h3>
+### Networking
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,bash,linux,wireshark,powershell&theme=dark&perline=8" alt="Security Stacks" /></a>
+<img src="https://techstack-generator.vercel.app/kali-linux-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/wireshark-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/powershell-icon.svg" alt="icon" width="65" height="65" />
 </p>
 
-<h3 align="center">Data Science & Machine Learning</h3>
+### Data Science & Machine Learning
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,json&theme=dark&perline=8" alt="Data Science Stacks" /></a>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/json-icon.svg" alt="icon" width="65" height="65" />
 </p>
 
-<h3 align="center">Tools & DevOps</h3>
+### Tools & DevOps
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,visualstudio,vscode,postman,docker&theme=dark&perline=8" alt="DevOps Stacks" />
-</a></p>
-
-<h3 align="center">Communication & Creativity</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=discord,notion,figma&theme=dark&perline=8" alt="Creative Tools" /></a>
+<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/visualstudio-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
 </p>
+
+### Communication & Creativity
+<p align="center">
+<img src="https://techstack-generator.vercel.app/discord-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/notion-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="icon" width="65" height="65" />
+</p>
+
+</div>
 
 ---
 
 ## 🌱 What I'm Up To
+<div align="center">
 
 -   **Developing scalable backend services** with Node.js and TypeScript.
 -   **Building cross-platform mobile apps** using React Native and Flutter.
@@ -66,9 +95,12 @@ If you're looking for interesting projects, coding tips, or just a good conversa
 -   **Exploring quantum computing** to stay ahead of the curve.
 -   **Becoming a cybersecurity expert** in ethical hacking and network security.
 
+</div>
+
 ---
 
 ## 💼 Projects
+<div align="center">
 
 I'm always working on something new! Here are a couple of my favorite projects:
 
@@ -77,13 +109,18 @@ I'm always working on something new! Here are a couple of my favorite projects:
 
 I have more projects in the pipeline, including management systems for local markets and innovative security tools. Follow my journey to see what's next!
 
+</div>
+
 ---
 
 ## 🌎 Languages
+<div align="center">
 
 -   **Portuguese:** Native
 -   **English:** Intermediate
 -   **Mandarin:** Beginner
+
+</div>
 
 ---
 
@@ -107,11 +144,14 @@ I have more projects in the pipeline, including management systems for local mar
 ---
 
 ## ⚡ Fun Fact
+<div align="center">
 
 When I'm not immersed in code, you can find me playing the piano, strumming my guitar, and composing music! 🎶
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Borge-Levisberg/Borge-Levisberg/output/wave.svg" alt="Footer Wave Animation" />
+  <img src="https://raw.githubusercontent.com/zobayerdev/Animated_Website_Footer/main/wave.svg" alt="Footer Wave Animation" />
 </div>
