@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5865F2&background=17181C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Borges!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=5865F2&background=17181C&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Borge!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/borgeLevisberg17">
+  <a href="https://github.com/borgelevisberg17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borgelevisberg17 &show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgelevisberg17 &layout=compact&theme=radical"/>
 </div>
