@@ -28,14 +28,8 @@ If you're looking for interesting projects, programming tips, or just want to ch
 <h3 align="center">Backend</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,dotnet,cs,mysql,sqlite,firebase&perline=8" alt="Backend Stacks" /></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask, postgrel,dotnet,cs,mysql,sqlite,firebase&perline=8" alt="Backend Stacks" /></a>
 </p>
-
-<h3 align="center">Mobile & Cross-Platform</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=maui, blazor&perline=8" alt="Mobile Stacks" />
-</a></p>
 
 <h3 align="center">Networking</h3>
 <p align="center">
@@ -46,7 +40,7 @@ If you're looking for interesting projects, programming tips, or just want to ch
 <h3 align="center">Data Science & Machine Learning</h3>
 <p align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python&perline=8" alt="Data Science Stacks" /></a>
+  <img src="https://skillicons.dev/icons?i=python,json&perline=8" alt="Data Science Stacks" /></a>
 </p>
 
 <h3 align="center">Tools & DevOps</h3>
