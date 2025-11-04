@@ -1,76 +1,85 @@
-👋 Hey, I’m Borge Levisberg!
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Borges!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</div>
 
-🚀 Full Stack Developer | Cybersecurity Enthusiast | AI & Mobile App Dev
+<div align="center">
+  <a href="https://github.com/Borge-Levisberg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Borge-Levisberg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borge-Levisberg&layout=compact&theme=radical"/>
+</div>
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e resolver problemas complexos. No momento, estou explorando novas tecnologias e melhorando minhas habilidades para me tornar um especialista em segurança, inteligência artificial e desenvolvimento mobile.
+## 🚀 About Me
 
-Se você está procurando por projetos interessantes, dicas de programação, ou só quer conversar sobre o futuro da tecnologia, você está no lugar certo!
+I'm a passionate Full Stack Developer with a strong interest in Cybersecurity, AI, and Mobile App Development. I love creating innovative solutions and solving complex problems. I'm currently exploring new technologies and honing my skills to become an expert in these fields.
 
-
----
-
-🔥 Sobre Mim
-
-🎯 Atualmente Aprendendo: Node.js, TypeScript, React Native, Django, Flutter
-
-💡 Tecnologias que Uso: .NET MAUI, C#, Python, MySQL, Kali Linux, Node.js
-
-🎯 Objetivos Futuros: Dominar AI, Computação Quântica e Segurança Cibernética
-
-💼 Projetos em Andamento:
-
-Bié Okutuala: Plataforma de e-commerce local para Angola
-MusicSpeak: Player de música com letras e funcionalidade de mensagens
-
-
-🌎 Idiomas: Português (nativo), Inglês (intermediário), Mandarim (em aprendizado)
-
+If you're looking for interesting projects, programming tips, or just want to chat about the future of technology, you've come to the right place!
 
 ---
 
-🚀 Meus Projetos
+## 💻 Tech Stack
 
-
-🔹 Projetos Futuros
-
-Tenho vários projetos em mente, incluindo sistemas de gestão para mercados locais e novas ferramentas de segurança. Fique ligado para mais atualizações!
-
-
----
-
-📬 Conecte-se Comigo
-
-📩 Email: borgelevisberg@gmail.com
-🌐 Website: [Borge](https://borge-levisberg.netlify.app/)
-🔗 LinkedIn: Borge Levisberg
-📸 Instagram: @borge.levisberg
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,react,django,flutter,dotnet,cs,python,mysql,linux,git,github,firebase,kali,bash,blazor,bootstrap&perline=8" />
+  </a>
+</div>
 
 ---
 
-🛠 Meu Stack Tecnológico
+## 🌱 Currently Learning
 
-Frontend: JavaScript, NET Maui, Blazor, Bootstrap 
-
-Backend: Node.js, .NET, Python
-
-Banco de Dados: MySQL, SQLite, Firebase
-
-DevOps: CI/CD, Docker
-
-Ferramentas: Kali Linux, bash
-
-Outras Ferramentas: Termux, Git, GitHub, Firebase
-
-
+-   **Node.js & TypeScript:** Building scalable and efficient backend services.
+-   **React Native & Flutter:** Creating cross-platform mobile applications.
+-   **Django:** Developing robust and secure web applications.
 
 ---
 
-⚡ Curiosidade
+## 🎯 Future Goals
 
-Não sou apenas um desenvolvedor, também adoro tocar piano, guitarra e escrever música! 🎶 Quando não estou codificando, você pode me encontrar criando melodias ou explorando o mundo da música.
-
+-   **Artificial Intelligence:** Mastering machine learning and deep learning.
+-   **Quantum Computing:** Exploring the next generation of computing.
+-   **Cybersecurity:** Becoming a specialist in ethical hacking and network security.
 
 ---
 
-📜 Thanks 😙 
+## 💼 Projects
+
+-   **Bié Okutuala:** An e-commerce platform for local businesses in Angola.
+-   **MusicSpeak:** A music player with lyrics and messaging features.
+
+I have several projects in mind, including management systems for local markets and new security tools. Stay tuned for more updates!
+
+---
+
+## 🌎 Languages
+
+-   **Portuguese:** Native
+-   **English:** Intermediate
+-   **Mandarin:** Learning
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+  <a href="mailto:borgelevisberg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://borge-levisberg.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/borge-levisberg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/borge.levisberg/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not coding, I love playing the piano and guitar, and writing music! 🎶
+
+---
