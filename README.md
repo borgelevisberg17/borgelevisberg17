@@ -30,19 +30,16 @@
 
   Se quiser projetos legais, dicas de código ou papo sobre tech, bora conectar! Vamos criar algo incrível juntos. 🚀
 </div>
-
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgelevisberg17&theme=transparent" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgelevisberg17&theme=transparent&v=1" alt="GitHub Stats" />
 
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgelevisberg17&theme=transparent" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgelevisberg17&theme=transparent&v=1" alt="Top Languages" />
 
 
 </div>
-
----
 
 ## Tech Stack
 
