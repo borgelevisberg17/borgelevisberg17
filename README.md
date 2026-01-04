@@ -32,10 +32,15 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/borgelevisberg17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borgelevisberg17&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgelevisberg17&layout=compact&theme=transparent&hide_border=true"/>
-  </div>
+
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borgelevisberg17&theme=transparent" alt="GitHub Stats" />
+
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=borgelevisberg17&theme=transparent" alt="Top Languages" />
+
+
+</div>
 
 ---
 
