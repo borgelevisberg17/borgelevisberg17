@@ -7,29 +7,35 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://borge-levisberg.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/borge-levisberg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://ao.linkedin.com/in/borge-levisberg-8baaa52b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/borge.levisberg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/244941135156" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@codeborge" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  Hey there! I'm Borge, a Full Stack Developer with a passion for cybersecurity, AI, and mobile app development. I thrive on building creative solutions and tackling complex challenges. I'm always diving into new technologies to level up my skills and become a true expert in my field.
+  E aí, galera! 👋 Sou o Borge, 21 anos, de Angola 🇦🇴. Desenvolvedor Full Stack apaixonado por cybersecurity, AI e apps mobile. Construo soluções criativas com .NET MAUI, C#, Node.js, Python e mais.
 
-  If you're looking for exciting projects, coding tips, or just a friendly chat about the future of tech, you've come to the right place! Let's connect and create something amazing together.
+  Se quiser projetos legais, dicas de código ou papo sobre tech, bora conectar! Vamos criar algo incrível juntos. 🚀
 </div>
 
 <div align="center">
   <a href="https://github.com/borgelevisberg17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=borgelevisberg17&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgelevisberg17&layout=compact&theme=transparent&hide_border=true"/>
-</div>
+  </div>
 
 ---
 
@@ -37,57 +43,60 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,django,flask,postgres,dotnet,cs,mysql,sqlite,firebase,vite,bots,netlify,kali,bash,linux,ps,py,threejs,git,github,visualstudio,sublime,vscode,postman,docker,redis,vercel,discord,notion,figma&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,express,python,flask,html,css,bootstrap,tailwind,php,mysql,sqlite,firebase,git,github,vscode,postman,figma,linux&theme=dark&perline=10" />
   </a>
 </div>
 
 ---
 
 ## My Projects
+
 <div align="center">
 
-I'm always cooking up something new! Here are a couple of my favorite projects so far:
+Aqui uns projetos que tô orgulhoso:
 
--   **Bié Okutuala:** I'm building an e-commerce platform that's helping to empower local businesses in Angola. It's a project close to my heart!
--   **MusicSpeak:** I created a music player that brings lyrics and messaging together in a fun, new way.
+- **IPCBooks** 📚: Gerenciador de biblioteca escolar (offline/online). Feito com .NET MAUI, SQLite e Firebase. Ajuda alunos e profs a acessar livros fácil!
+- **Hannah** 🤖: Assistente AI multi-plataforma com busca profunda, memória de contexto e integração Gemini. Suporta Discord, web e mais – top pra produtividade.
 
-I've got more exciting projects in the pipeline, including management systems for local markets and some innovative security tools. Follow my journey to see what's next!
+Mais no forno: ferramentas de segurança, bots e sistemas locais. Dá uma olhada no meu [portfolio](https://borge-levisberg.netlify.app/) pra demos e detalhes!
 
 </div>
 
 ---
 
 ## What I'm Learning & Exploring
+
 <div align="center">
 
-I'm a lifelong learner. Here's what I'm currently focused on:
+Sempre evoluindo:
 
--   **Developing scalable backend services** with Node.js and TypeScript.
--   **Building beautiful, cross-platform mobile apps** with React Native and Flutter.
--   **Creating robust and secure web applications** with Django.
--   **Diving deep into the world of AI** through machine learning and deep learning.
--   **Exploring the mind-bending realm of quantum computing** to stay ahead of the curve.
--   **Leveling up my cybersecurity skills** in ethical hacking and network security.
+- Backends escaláveis com Node.js e .NET
+- Apps cross-platform com .NET MAUI
+- Integrações AI (Gemini, APIs de voz/imagem)
+- Cybersecurity e ethical hacking basics
+- Bots e automação em Python
 
 </div>
 
 ---
 
 ## Languages
+
 <div align="center">
 
--   **Portuguese:** Native
--   **English:** Intermediate
--   **Mandarin:** Beginner
+- **Português:** Nativo 🇦🇴
+- **Inglês:** Intermediário
+- **Mandarim:** Iniciante
 
 </div>
 
 ---
 
 ## Fun Fact
+
 <div align="center">
 
-When I'm not coding, you can usually find me making music! I love playing the piano, strumming my guitar, and composing my own tunes. 🎶
+Fora do código, tô na música! Piano, guitarra e compondo minhas próprias tracks 🎶🎸
 
 </div>
 
@@ -95,5 +104,5 @@ When I'm not coding, you can usually find me making music! I love playing the pi
 
 <div align="center">
   <hr>
-  <p><a href="#top">Back to Top</a></p>
+  <p><a href="#top">Voltar ao Top 🔼</a></p>
 </div>
